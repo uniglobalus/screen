@@ -1,0 +1,4 @@
+Flask
+playwright
+python-telegram-bot
+gunicorn
